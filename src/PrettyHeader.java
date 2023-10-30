@@ -1,9 +1,9 @@
 import java.util.Scanner;
 public class PrettyHeader {
     public static void main(String[] args) {
-        SafeInput.prettyHeader("ODD");
-        SafeInput.prettyHeader("EVEN");
-        SafeInput.prettyHeader("LONG MESSAGE TO TEST");
-        SafeInput.prettyHeader("i");
+        SafeInput.prettyHeader("III");
+        SafeInput.prettyHeader("IIII");
+        SafeInput.prettyHeader("LONG MESSAGE message message");
+        SafeInput.prettyHeader("RAH");
     }
 }
